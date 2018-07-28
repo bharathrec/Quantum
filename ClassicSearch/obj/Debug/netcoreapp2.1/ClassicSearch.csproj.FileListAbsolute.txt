@@ -1,0 +1,11 @@
+/home/bharath/quantum/ClassicSearch/bin/Debug/netcoreapp2.1/ClassicSearch.deps.json
+/home/bharath/quantum/ClassicSearch/bin/Debug/netcoreapp2.1/ClassicSearch.runtimeconfig.json
+/home/bharath/quantum/ClassicSearch/bin/Debug/netcoreapp2.1/ClassicSearch.runtimeconfig.dev.json
+/home/bharath/quantum/ClassicSearch/bin/Debug/netcoreapp2.1/ClassicSearch.dll
+/home/bharath/quantum/ClassicSearch/bin/Debug/netcoreapp2.1/ClassicSearch.pdb
+/home/bharath/quantum/ClassicSearch/obj/Debug/netcoreapp2.1/ClassicSearch.csprojAssemblyReference.cache
+/home/bharath/quantum/ClassicSearch/obj/Debug/netcoreapp2.1/ClassicSearch.csproj.CoreCompileInputs.cache
+/home/bharath/quantum/ClassicSearch/obj/Debug/netcoreapp2.1/ClassicSearch.AssemblyInfoInputs.cache
+/home/bharath/quantum/ClassicSearch/obj/Debug/netcoreapp2.1/ClassicSearch.AssemblyInfo.cs
+/home/bharath/quantum/ClassicSearch/obj/Debug/netcoreapp2.1/ClassicSearch.dll
+/home/bharath/quantum/ClassicSearch/obj/Debug/netcoreapp2.1/ClassicSearch.pdb
